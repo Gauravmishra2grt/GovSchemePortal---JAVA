@@ -24,7 +24,7 @@ public class GovSchemePortal extends JFrame {
         setLayout(new BorderLayout(10, 10));
         getContentPane().setBackground(new Color(244, 247, 246));
 
-        // Yahan hum database class se saara data le rahe hain
+        
         allSchemes = SchemeDatabase.getAllSchemes();
 
         // Top Panel Setup (Header & Filters)
@@ -133,7 +133,7 @@ public class GovSchemePortal extends JFrame {
         displaySchemes(filtered);
     }
 
-    // Yahan se Program Start hoga!
+    
     public static void main(String[] args) {
         SwingUtilities.invokeLater(() -> {
             new GovSchemePortal().setVisible(true);
