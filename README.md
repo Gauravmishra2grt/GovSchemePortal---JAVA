@@ -23,5 +23,8 @@ To maintain clean, scalable, and readable code, the project is divided into thre
 
 ## ⚙️ How to Run Locally
 1. Clone this repository to your local machine:
-   ```bash
+   ```bash![WhatsApp Image 2026-04-08 at 12 29 40 AM](https://github.com/user-attachments/assets/be9d5458-d483-4f19-b238-93419cf97523)
+
    git clone [https://github.com/YourUsername/GovSchemePortal-Java.git](https://github.com/YourUsername/GovSchemePortal-Java.git)
+
+
